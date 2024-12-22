@@ -8,3 +8,4 @@ langchain_groq
 langchain_huggingface
 langchain_text_splitters
 python-dotenv
+firebase-admin
